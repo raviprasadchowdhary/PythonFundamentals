@@ -1,0 +1,78 @@
+## 🐍 **Phase 1: Python Fundamentals (Weeks 1–3)**
+
+### ✅ Basics
+- Variables, Data Types (int, float, str, bool)
+- Input/Output
+- Operators (Arithmetic, Comparison, Logical)
+
+### ✅ Control Flow
+- `if`, `elif`, `else`
+- `for` and `while` loops
+- `break`, `continue`, `pass`
+
+### ✅ Data Structures
+- Lists, Tuples, Sets, Dictionaries
+- List comprehensions
+
+### ✅ Functions
+- Defining and calling functions
+- Arguments, return values
+- Lambda functions
+
+### ✅ Modules & Packages
+- Importing modules
+- Standard libraries (`math`, `datetime`, `os`, etc.)
+
+### ✅ Error Handling
+- `try`, `except`, `finally`
+- Custom exceptions
+
+---
+
+## 🧪 **Phase 2: Pytest Basics (Week 4)**
+
+### ✅ Setup
+- Installing Pytest
+- Writing your first test
+- Assertions (`assert`, `assertEqual`, etc.)
+
+### ✅ Test Structure
+- Test discovery
+- Fixtures (`@pytest.fixture`)
+- Parametrization
+
+### ✅ Advanced Pytest
+- Markers (`@pytest.mark`)
+- Skipping and expected failures
+- Running tests with CLI options
+
+---
+
+## 🤖 **Phase 3: Playwright with Python (Weeks 5–6)**
+
+### ✅ Setup
+- Installing Playwright (`pip install playwright`)
+- Browser setup (`playwright install`)
+- Launching browsers (Chromium, Firefox, WebKit)
+
+### ✅ Core Concepts
+- Page navigation
+- Locators and selectors
+- Actions: click, type, wait, etc.
+
+### ✅ Automation Scenarios
+- Login automation
+- Form submission
+- Screenshot and PDF generation
+
+### ✅ Integration with Pytest
+- Using Playwright in Pytest tests
+- Setup and teardown with fixtures
+- Headless vs headed mode
+
+---
+
+## 🧠 Optional: Phase 4 – Extras
+- Logging and debugging
+- Using `pytest-html` for reports
+- CI/CD integration (GitHub Actions, Jenkins)
